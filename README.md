@@ -11,4 +11,4 @@ The full license can be found in the LICENSE.md document available in this direc
 
 The license adopted may be modified (only by me) as long as this does not cause any harm to the authors.
 
-Please, if you use the information presented here for other publications or references, cite using Fraga, T. B. 2023. Combinatorial Optimization Problems, available at https://github.com/tbfraga/project-demand-forecast, accessed on <today's date>.
+Please, if you use the information presented here for other publications or references, cite using Fraga, T. B. 2023. Demand Forecasting Project, available at https://github.com/tbfraga/project-demand-forecast, accessed on <today's date>.
